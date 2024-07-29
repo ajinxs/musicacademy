@@ -8,11 +8,13 @@ import courseData from '@/data/music_course.json';
 function page() {
   return (
     <div className="min-h-screen bg-black py-12 pt-36">
-        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-8 text-white">All Courses ({courseData.courses.length})</h1>
+        
+        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">All Courses ({courseData.courses.length})</h1>
+
         <div className="flex flex-wrap justify-center">
             {courseData.courses.map((course)=>(
-                <CardContainer className="inter-var" key={course.id}>
-                    <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border">
+                <CardContainer className="inter-var mx-2" key={course.id}>
+                    <CardBody className="bg-gray-50 relative group/card dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border">
                         <CardItem translateZ="50" className="text-xl font-bold text-neutral-600 dark:text-white">
                             {course.title}
                         </CardItem>
@@ -31,7 +33,7 @@ function page() {
                             />
                         </CardItem>
 
-                        <div className="flex justify-between items-center mt-20">
+                        <div className="flex justify-between items-center mt-7">
                             <CardItem translateZ={20} as={Link} href="https://twitter.com/mannupaaji" target="__blank" className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white">
                                 Try now →
                             </CardItem>
