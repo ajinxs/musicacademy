@@ -23,7 +23,7 @@ function Navbar({ className }: { className?: string }) {
 
             <HoveredLink href="/guitar">Guitar Fundamentals</HoveredLink> 
             
-            <HoveredLink href="/courses">Advance Composition</HoveredLink> 
+            <HoveredLink href="/piano">Piano</HoveredLink> 
             
             <HoveredLink href="/courses">Songwriting</HoveredLink> 
             
