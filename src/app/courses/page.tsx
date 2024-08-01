@@ -34,7 +34,7 @@ function page() {
                         </CardItem>
 
                         <div className="flex justify-between items-center mt-7">
-                            <CardItem translateZ={20} as={Link} href={"/guitar"} className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white">
+                            <CardItem translateZ={20} as={Link} href={`/${course.slug}`} className="px-4 py-2 rounded-xl text-xs font-normal dark:text-white">
                                 Try now →
                             </CardItem>
 

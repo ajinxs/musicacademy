@@ -13,14 +13,14 @@ function Guitar() {
             fill="blue"
         />
 
-        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">Piano</h1>
+        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">Vocalist</h1>
 
         <div className="flex flex-wrap justify-center">
 
             <p className="text-base font-normal text-balance text-center mt-5">
-                Starting your piano journey? This course is for you! We&apos;ll learn all the basic skills and build the muscles you need 
-                to play the piano with confidence. By the end of Basic, you&apos;ll know how to understand and read notes and have basic
-                understanding of piano. 
+                Starting your vocal journey? This course is for you! We&apos;ll learn all the basic skills and build the muscles you need 
+                to play the vocal with confidence. By the end of Basic, you&apos;ll know how to understand and read notes and have basic
+                understanding of vocal. 
             </p>
         </div>
 
@@ -39,34 +39,24 @@ function Guitar() {
                 
                 <tbody>
                     <tr>
-                        <td>Keyboard with Notes</td>
+                        <td>Vocal Mechanism</td>
                         <td>3</td>
                         <td>$200</td>
                     </tr>
                     <tr>
-                        <td>Half steps on the keyboard</td>
+                        <td>Vocal Imbalance</td>
                         <td>3</td>
                         <td>$300</td>
                     </tr>
                     <tr>
-                        <td>Learning note values on the piano</td>
+                        <td>Voice Lesson</td>
                         <td>6</td>
                         <td>$500</td>
                     </tr>
                     <tr>
-                        <td>Everything about the beat</td>
+                        <td>Vocal Science</td>
                         <td>7</td>
                         <td>$500</td>
-                    </tr>
-                    <tr>
-                        <td>Bars and tempo </td>
-                        <td>15</td>
-                        <td>$300</td>
-                    </tr>
-                    <tr>
-                        <td>Melody on the piano</td>
-                        <td>15</td>
-                        <td>$300</td>
                     </tr>
                 </tbody>
             </table>
