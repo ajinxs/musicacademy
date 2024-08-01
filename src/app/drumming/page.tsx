@@ -13,14 +13,14 @@ function Guitar() {
             fill="blue"
         />
 
-        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">Piano</h1>
+        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">Drumming</h1>
 
         <div className="flex flex-wrap justify-center">
 
             <p className="text-base font-normal text-balance text-center mt-5">
-                Starting your piano journey? This course is for you! We&apos;ll learn all the basic skills and build the muscles you need 
-                to play the piano with confidence. By the end of Basic, you&apos;ll know how to understand and read notes and have basic
-                understanding of piano. 
+                Starting your drumming journey? This course is for you! We&apos;ll learn all the basic skills and build the muscles you need 
+                to play the drumming with confidence. By the end of Basic, you&apos;ll know how to understand and read notes and have basic
+                understanding of drumming . 
             </p>
         </div>
 
@@ -39,33 +39,23 @@ function Guitar() {
                 
                 <tbody>
                     <tr>
-                        <td>Keyboard with Notes</td>
+                        <td>1st Drum Beat</td>
                         <td>3</td>
                         <td>$200</td>
                     </tr>
                     <tr>
-                        <td>Half steps on the keyboard</td>
+                        <td>BANG&apos;s Eight Note</td>
                         <td>3</td>
                         <td>$300</td>
                     </tr>
                     <tr>
-                        <td>Learning note values on the piano</td>
+                        <td>Six Eight Independence</td>
                         <td>6</td>
                         <td>$500</td>
                     </tr>
                     <tr>
-                        <td>Everything about the beat</td>
-                        <td>7</td>
-                        <td>$500</td>
-                    </tr>
-                    <tr>
-                        <td>Bars and tempo </td>
-                        <td>15</td>
-                        <td>$1000</td>
-                    </tr>
-                    <tr>
-                        <td>Melody on the piano</td>
-                        <td>15</td>
+                        <td>Hi-Hat Control</td>
+                        <td>6</td>
                         <td>$1000</td>
                     </tr>
                 </tbody>
