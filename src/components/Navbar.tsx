@@ -30,6 +30,8 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/drumming">Drumming</HoveredLink>
 
             <HoveredLink href="/jazz">Jazz</HoveredLink>  
+
+            <HoveredLink href="/music">Music Production</HoveredLink> 
           </div>
         </MenuItem>
 
