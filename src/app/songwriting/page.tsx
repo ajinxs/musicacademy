@@ -13,19 +13,17 @@ function Guitar() {
             fill="blue"
         />
 
-        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">Music Production Fundamentals</h1>
+        <h1 className="text-lg md:text-3xl text-center font-sans font-bold mb-1 text-white">Song Writing</h1>
 
         <div className="flex flex-wrap justify-center">
 
+            <p className="text-base font-normal text-balance text-center mt-5"></p>
+                Songwriting can be an overwhelming process…
+
             <p className="text-base font-normal text-balance text-center mt-5">
-                Starting your music production fundamentals journey? This course is for you! We&apos;ll learn all the basic skills and build the muscles you need 
-                to play the music production fundamentals with confidence.
-            </p>
-            <p className="text-base font-normal text-balance text-center mt-3">
-                Music production is an umbrella term. Whether it&apos;s songwriting, arranging, recording, mixing, mastering or anything in between, 
-                it can probably be described as music production. Put simply, it&apos;s the entire process, from start to finish, of making recorded 
-                music. The different elements of music production rely not only on skills and knowledge but on specific hardware and software. 
-                So, the first step is to consider what gear you&apos;re going to need.
+                Today, we’ll be unleashing the ultimate secrets to writing songs that resonate with listeners and top the charts.
+                Whether you’re a seasoned songwriter or just starting your journey, this guide is your go-to resource for crafting 
+                unforgettable tunes, writing melodies, creating lyrics, and everything in between.
             </p>
         </div>
 
@@ -44,28 +42,33 @@ function Guitar() {
                 
                 <tbody>
                     <tr>
-                        <td>Writing</td>
+                        <td>Explore Different Genres</td>
+                        <td>3</td>
+                        <td>$200</td>
+                    </tr>
+                    <tr>
+                        <td>Use Prompts & Challenges</td>
+                        <td>3</td>
+                        <td>$300</td>
+                    </tr>
+                    <tr>
+                        <td>Developing a Song Structure</td>
                         <td>6</td>
                         <td>$500</td>
                     </tr>
                     <tr>
-                        <td>Session setup</td>
-                        <td>13</td>
-                        <td>$700</td>
+                        <td>Writing Lyrics</td>
+                        <td>7</td>
+                        <td>$500</td>
                     </tr>
                     <tr>
-                        <td>Tempo and key</td>
-                        <td>13</td>
-                        <td>$1500</td>
-                    </tr>
-                    <tr>
-                        <td>Audio settings</td>
-                        <td>13</td>
+                        <td>Creating a Verse Melody</td>
+                        <td>15</td>
                         <td>$1000</td>
                     </tr>
                     <tr>
-                        <td>MIDI</td>
-                        <td>13</td>
+                        <td>Crafting a Chorus Melody</td>
+                        <td>15</td>
                         <td>$1000</td>
                     </tr>
                 </tbody>
