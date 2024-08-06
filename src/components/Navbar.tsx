@@ -34,6 +34,8 @@ function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/music">Music Production</HoveredLink> 
 
             <HoveredLink href="/songwriting">Song Writing</HoveredLink> 
+
+            <HoveredLink href="/classical">Classical Music</HoveredLink> 
           </div>
         </MenuItem>
 
