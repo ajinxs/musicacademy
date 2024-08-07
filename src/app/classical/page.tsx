@@ -39,22 +39,22 @@ function ClassicalMusic() {
                 
                 <tbody>
                     <tr>
-                        <td>Vocal Mechanism</td>
+                        <td>Understanding Classical Music</td>
                         <td>3</td>
                         <td>$200</td>
                     </tr>
                     <tr>
-                        <td>Vocal Imbalance</td>
+                        <td>Baroque Music</td>
                         <td>3</td>
                         <td>$300</td>
                     </tr>
                     <tr>
-                        <td>Voice Lesson</td>
+                        <td>Handel - Hallelujah Chorus</td>
                         <td>6</td>
                         <td>$500</td>
                     </tr>
                     <tr>
-                        <td>Vocal Science</td>
+                        <td>Vivaldi - The Four Seasons</td>
                         <td>7</td>
                         <td>$500</td>
                     </tr>
