@@ -80,6 +80,9 @@ const config: Config = {
       },
     },
   },
+
+
+  
   plugins: [addVariablesForColors, addSvgPatterns],
 };
 
